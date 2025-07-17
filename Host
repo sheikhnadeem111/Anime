@@ -48,6 +48,12 @@
     "mega_domains": ["dlx.techinmind.space"]
   },
   {
+    "pckg_id": "com.animehindidubbed.android",
+    "base_domain": "animehindidubbed.in",
+    "home_url": "https://animehindidubbed.in",
+    "mega_domains": ["mega.nz"]
+  },
+  {
     "pckg_id": "com.animesalt.android",
     "base_domain": "animesalt.cc",
     "home_url": "https://animesalt.cc/",
