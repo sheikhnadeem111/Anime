@@ -1,0 +1,58 @@
+[
+  {
+    "pckg_id": "com.tvgarden.android",
+    "base_domain": "tv.garden",
+    "home_url": "https://tv.garden/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.animeworld.android",
+    "base_domain": "watchanimeworld.in",
+    "home_url": "https://watchanimeworld.in",
+    "mega_domains": ["mega.nz", "mega.io"]
+ },
+  {
+    "pckg_id": "com.toonworld.android",
+    "base_domain": "toonworld4all.fun",
+    "home_url": "https://toonworld4all.fun/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "tv.miruro.android",
+    "base_domain": "miruro.online",
+    "home_url": "https://www.miruro.online",
+    "mega_domains": ["pahe.win"]
+  },
+  {
+    "pckg_id": "org.anime9.android",
+    "base_domain": "9anime.org.lv",
+    "home_url": "https://9anime.org.lv/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animesuge.android",
+    "base_domain": "animesugetv.se",
+    "home_url": "https://animesugetv.se/home",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedao.android",
+    "base_domain": "animedao9.top",
+    "home_url": "https://animedao9.top/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedub.android",
+    "base_domain": "animedub.co",
+    "home_url": "https://animedub.co/home",
+    "mega_domains": ["dlx.techinmind.space"]
+  },
+  {
+    "pckg_id": "com.animesalt.android",
+    "base_domain": "animesalt.cc",
+    "home_url": "https://animesalt.cc/",
+    "mega_domains": ["mega.nz"]
+  }
+  
+  
+]
