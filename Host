@@ -53,10 +53,16 @@
     "home_url": "https://animehindidubbed.in",
     "mega_domains": ["mega.nz"]
   },
-  {
+{
     "pckg_id": "com.animesalt.android",
     "base_domain": "animesalt.cc",
     "home_url": "https://animesalt.cc/",
+    "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.animahd.android",
+    "base_domain": "animahd.com",
+    "home_url": "https://animahd.com/",
     "mega_domains": ["mega.nz"]
   }
   
