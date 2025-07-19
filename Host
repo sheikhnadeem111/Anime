@@ -59,6 +59,12 @@
     "home_url": "https://animesalt.cc/",
     "mega_domains": ["mega.nz"]
   },
+{
+    "pckg_id": "com.netmirror.android",
+    "base_domain": "net2025.cc",
+    "home_url": "https://net2025.cc/home/",
+    "mega_domains": ["mega.nz"]
+  },
   {
     "pckg_id": "com.animahd.android",
     "base_domain": "animahd.com",
