@@ -72,6 +72,12 @@
     "mega_domains": ["mega.nz"]
   },
 {
+    "pckg_id": "com.hinanime.android",
+    "base_domain": "hinanime.site",
+    "home_url": "https://hinanime.site",
+    "mega_domains": ["mega.nz"]
+  },
+{
     "pckg_id": "com.desicinemas.android",
     "base_domain": "desicinemas.to",
     "home_url": "https://desicinemas.to/",
