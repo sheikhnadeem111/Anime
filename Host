@@ -78,6 +78,12 @@
     "mega_domains": ["mega.nz"]
   },
 {
+    "pckg_id": "com.tplay",
+    "base_domain": "tplay.live",
+    "home_url": "https://tplay.live/",
+    "mega_domains": ["mega.nz"]
+  },
+{
     "pckg_id": "com.desicinemas.android",
     "base_domain": "desicinemas.to",
     "home_url": "https://desicinemas.to/",
