@@ -7,7 +7,7 @@
   },
  {
     "pckg_id": "com.testbook",
-    "base_domain": "testbook.com",
+    "base_domain": "testbook",
     "home_url": "https://testbook.com",
     "mega_domains": ["mega.nz", "mega.io"]
   },
