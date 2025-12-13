@@ -5,7 +5,7 @@
     "home_url": "https://tv.garden/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
-{
+ {
     "pckg_id": "com.testbook",
     "base_domain": "testbook.com",
     "home_url": "https://testbook.com",
