@@ -90,9 +90,9 @@
     "mega_domains": ["mega.nz"]
   },
 {
-    "pckg_id": "com.tmovies",
+    "pckg_id": "com.tmovie",
     "base_domain": "tmovies.tv",
-    "home_url": "https://tmovies.tv/",
+    "home_url": "https://tmovie.tv/",
     "mega_domains": ["mega.nz"]
   }
   
