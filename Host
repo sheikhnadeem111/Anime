@@ -30,9 +30,9 @@
     "mega_domains": ["pahe.win"]
   },
   {
-    "pckg_id": "org.anime9.android",
-    "base_domain": "9anime.org.lv",
-    "home_url": "https://9anime.org.lv/",
+    "pckg_id": "com.popcornmovies",
+    "base_domain": "popcornmovies.org",
+    "home_url": "https://popcornmovies.org/",
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
