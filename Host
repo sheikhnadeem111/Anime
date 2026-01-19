@@ -6,9 +6,9 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
-    "pckg_id": "com.testbook",
-    "base_domain": "testbook",
-    "home_url": "https://testbook.com",
+    "pckg_id": "com.kgs",
+    "base_domain": "spidykgs",
+    "home_url": "https://spidykgs.vercel.app",
     "mega_domains": ["mega.nz", "mega.io"]
   },
   {
