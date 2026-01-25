@@ -11,6 +11,12 @@
     "home_url": "https://spidykgs.vercel.app",
     "mega_domains": ["mega.nz", "mega.io"]
   },
+{
+    "pckg_id": "com.sw",
+    "base_domain": "spidyway",
+    "home_url": "https://spidyway.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
   {
     "pckg_id": "com.animeworld.android",
     "base_domain": "watchanimeworld.in",
