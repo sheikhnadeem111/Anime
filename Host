@@ -11,6 +11,12 @@
     "home_url": "https://spidykgs.vercel.app",
     "mega_domains": ["mega.nz", "mega.io"]
   },
+ {
+    "pckg_id": "com.animerulz",
+    "base_domain": "animerulzx.net",
+    "home_url": "https://animerulzx.net",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
 {
     "pckg_id": "com.sw",
     "base_domain": "spidyway",
