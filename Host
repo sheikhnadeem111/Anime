@@ -25,7 +25,7 @@
   },
   {
     "pckg_id": "com.animeworld.android",
-    "base_domain": "watchanimeworld.in",
+    "base_domain": "watchanimeworld.net",
     "home_url": "https://watchanimeworld.in",
     "mega_domains": ["mega.nz", "mega.io"]
  },
