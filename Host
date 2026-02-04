@@ -5,6 +5,12 @@
     "home_url": "https://tv.garden/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
+{
+    "pckg_id": "com.toonstream",
+    "base_domain": "toonstream.dad",
+    "home_url": "https://toonstream.dad/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
  {
     "pckg_id": "com.kgs",
     "base_domain": "spidykgs",
