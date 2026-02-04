@@ -8,7 +8,7 @@
 {
     "pckg_id": "com.toonstream",
     "base_domain": "toonstream.dad",
-    "home_url": "https://toonstream.dad/",
+    "home_url": "https://toonstream.dad/home",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
