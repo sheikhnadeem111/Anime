@@ -6,6 +6,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
 {
+    "pckg_id": "com.netmirror",
+    "base_domain": "net20.cc",
+    "home_url": "https://net20.cc/home",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
     "pckg_id": "com.toonstream",
     "base_domain": "toonstream.dad",
     "home_url": "https://toonstream.dad/home",
