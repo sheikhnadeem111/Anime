@@ -90,9 +90,9 @@
     "mega_domains": ["mega.nz"]
   },
 {
-    "pckg_id": "com.netmirror.android",
-    "base_domain": "net2025.cc",
-    "home_url": "https://net2025.cc/",
+    "pckg_id": "com.rwa",
+    "base_domain": "rwa.vercel.app",
+    "home_url": "https://spidyuniverserwa.vercel.app/",
     "mega_domains": ["mega.nz"]
   },
   {
