@@ -12,6 +12,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
 {
+    "pckg_id": "com.cinefy",
+    "base_domain": "cinefy.lol",
+    "home_url": "https://cinefy.lol",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
     "pckg_id": "com.desidubanime",
     "base_domain": "desidubanime.me",
     "home_url": "https://desidubanime.me",
