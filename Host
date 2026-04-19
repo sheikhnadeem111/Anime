@@ -18,6 +18,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
 {
+    "pckg_id": "com.Studyiq",
+    "base_domain": "spidyiq.vercel.app",
+    "home_url": "https://spidyiq.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
     "pckg_id": "com.desidubanime",
     "base_domain": "desidubanime.me",
     "home_url": "https://desidubanime.me",
