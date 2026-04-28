@@ -60,9 +60,9 @@
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
-    "pckg_id": "tv.miruro.android",
-    "base_domain": "miruro.online",
-    "home_url": "https://www.miruro.online",
+    "pckg_id": "com.testbook",
+    "base_domain": "spidytests.vercel",
+    "home_url": "https://www.spidytests.vercel.app",
     "mega_domains": ["pahe.win"]
   },
   {
