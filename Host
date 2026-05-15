@@ -132,6 +132,12 @@
     "mega_domains": ["mega.nz"]
   },
 {
+    "pckg_id": "com.ipllive",
+    "base_domain": "dtv.app",
+    "home_url": "https://we-live-v2.pages.dev/live-stream?channel=Star%20Sports%20Hindi",
+    "mega_domains": ["mega.nz"]
+  },
+{
     "pckg_id": "com.wowtv",
     "base_domain": "wowtv.app",
     "home_url": "https://wowtv.app/",
